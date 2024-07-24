@@ -1,0 +1,4 @@
+touch_time_range(sec),gp,total_freq_per,total_fg_made,total_fg_att,total_fg_per,effective_fg_per,two_pt_freq_per,two_pt_fg_made,two_pt_fg_att,two_pt_fg_per,three_pt_freq_per,three_pt_fg_made,three_pt_fg_att,three_pt_fg_per
+<2_seconds,82,53.3,1851,3882,47.7,60.7,17.8,840,1292,65,35.6,1011,2590,39
+2-6_seconds,82,30.7,1108,2237,49.5,53.5,23.3,929,1699,54.7,7.4,179,538,33.3
+6+_seconds,82,15.9,501,1159,43.2,48.6,10.9,376,795,47.3,5,125,364,34.3
